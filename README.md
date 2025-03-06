@@ -1,5 +1,5 @@
-#                                                                   **Hi 👋, I’m Pramit Garg**   
-                                                            **I’m a passionate data analyst from India.**
+#                                                                  **Hi 👋, I’m Pramit Garg**   
+                                                          **I’m a passionate data analyst from India.**
 
 🚀 **What I Bring to the Table**  
 - 📊 **Data Analytics**: Python (Pandas, NumPy), SQL, Excel, Power BI DAX.
