@@ -8,11 +8,11 @@
 - 🔭 I’m currently searching a **remote job | clients**
 
 - 👯 I’m looking to collaborate on : 
--                                   📊 Data Analytics: Python (Pandas, NumPy), SQL, Excel, Power BI DAX.
-                                    � Data Visualization: Power BI, Matplotlib, Seaborn, building dashboards through Power Bi.
-                                    🗃 Natural Language Processing (NLP): NLTK, spaCy, Hugging Face, TextBlob.
-                                    🏗️ MVP Development: Rapid prototyping with a focus on usability
-                                    🔍 Business Insight: Leveraging domain knowledge to frame data-driven strategies.
+-      📊 Data Analytics: Python (Pandas, NumPy), SQL, Excel, Power BI DAX.
+       � Data Visualization: Power BI, Matplotlib, Seaborn, building dashboards through Power Bi.
+       🗃 Natural Language Processing (NLP): NLTK, spaCy, Hugging Face, TextBlob.
+      🏗️ MVP Development: Rapid prototyping with a focus on usability
+      🔍 Business Insight: Leveraging domain knowledge to frame data-driven strategies.
 
 - 💬 Ask me about **Data Analysis**
 
